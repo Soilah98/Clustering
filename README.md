@@ -1,5 +1,8 @@
 # Projet de Clustering
-  - Segmentation du clientelle
+- [StratégieTarifaireHôtel](https://github.com/Soilah98/Clustering/Pricing_hotellerie)
+- [Risque Cancer Cerveau](https://github.com/Soilah98/Clustering/cervical+cancer+behavior+risk)
+- [Segmentation Client](https://github.com/Soilah98/Clustering/segmentation_client)
+
 ### Compétences Développées
  - **Manipulation et Préparation des Données**
     - Nettoyage, traitement des valeurs manquantes et anomalies
