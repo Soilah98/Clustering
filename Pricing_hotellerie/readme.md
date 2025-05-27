@@ -1,5 +1,5 @@
 ## Projet 
-
+[Voir le projet](https://colab.research.google.com/drive/1GGR-IX1p2b-oLkXX0SogG-6KtpJajEUu#scrollTo=enwB_Rcs9wJS)
 1. ## Contexte 
 L'équipe de stratégie de tarification a obtenu un budget supplémentaire de 2 millions de dollars pour le premier trimestre 2025 afin d'offrir des réductions aux clients sur des segments ciblés dans le secteur de l'hôtellerie.  
 
