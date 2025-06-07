@@ -34,13 +34,4 @@ Nous vous demandons d'analyser les données contenues dans le fichier Excel et d
 L’équipe de tarification évalue la performance des programmes de réduction grâce à un groupe témoin constant (30 % du trafic) sur lequel aucune remise n’est appliquée ("groupe A").
 Au cours du quatrième trimestre (Q4), l’équipe a progressivement augmenté les dépenses sur l’ensemble des segments d’environ 10 %.
 
-6. ## Indication 
-- Commencez par une analyse exploratoire des données pour identifier les faits les plus marquants. 
-- Soyez proactif dans le nettoyage des données.
-- Pouvez-vous définir un KPI pour mesurer l’incrementality ($) générée par la tarification ?
-- Pouvez-vous définir un KPI pour évaluer l'efficacité des dépenses ?
-- Pouvez-vous penser à une notion économique reliant prix et demande ?
-- Comment pourriez-vous adapter cette notion pour analyser l’effet de l’augmentation de 10 % des dépenses sur Q4 ?
-- Comment dessineriez-vous (qualitativement) la relation entre dépenses et incrémentalité ?
-- N’oubliez pas d’estimer l’impact de votre recommandation.
-- Une estimation basée sur des hypothèses solides vaut mieux que de ne rien fournir !
+
