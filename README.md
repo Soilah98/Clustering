@@ -1,7 +1,7 @@
 # Projet de Clustering
 - [StratégieTarifaireHôtel](https://github.com/Soilah98/Clustering/tree/main/Pricing_hotellerie)
-- [Risque Cancer Cerveau](https://github.com/Soilah98/Clustering/tree/main/cervical+cancer+behavior+risk)
-- [Segmentation Client](https://github.com/Soilah98/Clustering/tree/main/segmentation_client)
+- [Retail](https://github.com/Soilah98/Clustering/blob/main/Retail/Retail/src/retail/projet_retail.ipynb)
+
 
 ### Compétences Développées
  - **Manipulation et Préparation des Données**
@@ -13,15 +13,16 @@
     - Normalisation et standardisation des données
 
  ### Implémentation des Algorithmes de Clustering
-
-    - K-Means : Regroupement des données en clusters homogènes
-    - DBSCAN: Détection de structures complexes sans spécification du nombre de clusters
-    - t-SNE / UMAP : Réduction de dimension pour la visualisation des clusters
-    - Méthode du Coude : Détermination du nombre optimal de clusters
-    - Indice de Silhouette : Évaluation de la qualité des clusters
-    
-   ### Technologies et Outils
-    - Langages : **Python**
-    - Bibliothèques : **Pandas, NumPy, Matplotlib, Seaborn, Kmeans, PCA, TSNE, Scikit-learn**
-    - Environnement : **Jupyter Notebook, Google Colab**
-    - Outils de versioning : **Git & GitHub**
+- K-Means : segmentation de données en clusters homogènes avec optimisation du nombre de groupes
+- DBSCAN : détection de structures complexes et identification des outliers sans définir a priori le nombre de clusters
+- Clustering hiérarchique (agglomératif) : analyse des relations entre observations via dendrogrammes
+- Spectral Clustering : segmentation de données non linéaires basée sur la théorie des graphes
+- Mean Shift : détection automatique de zones de forte densité
+- Évaluation et optimisation
+    - Méthode du coude (Elbow) : détermination du nombre optimal de clusters
+    - Indice de silhouette : évaluation de la cohérence et séparation des clusters
+ ### Technologies et Outils
+   - Langages : **Python**
+   - Bibliothèques : **Pandas, NumPy, Matplotlib, Seaborn, Kmeans, PCA, TSNE, Scikit-learn**
+   - Environnement : **Jupyter Notebook, Google Colab**
+   - Outils de versioning : **Git & GitHub**
